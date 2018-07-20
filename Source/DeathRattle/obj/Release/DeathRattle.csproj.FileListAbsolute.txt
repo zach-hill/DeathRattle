@@ -17,3 +17,10 @@ C:\Users\Joshy\Documents\DeathRattle\Source\DeathRattle\obj\Release\DeathRattle.
 C:\Users\Joshy\Documents\DeathRattle\Source\DeathRattle\obj\Release\DeathRattle.pdb
 C:\Users\Joshy\Documents\DeathRattle\Assemblies\DeathRattle.dll
 C:\Users\Joshy\Documents\DeathRattle\Assemblies\DeathRattle.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DeathRattle\Assemblies\DeathRattle.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DeathRattle\Assemblies\DeathRattle.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DeathRattle\Source\DeathRattle\obj\Release\DeathRattle.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DeathRattle\Source\DeathRattle\obj\Release\DeathRattle.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DeathRattle\Source\DeathRattle\obj\Release\DeathRattle.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DeathRattle\Source\DeathRattle\obj\Release\DeathRattle.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\DeathRattle\Source\DeathRattle\obj\Release\DeathRattle.pdb
