@@ -3,7 +3,7 @@
 	<name>Death Rattle</name>
 	<author>Linq</author>
 	<url>https://ludeon.com/forums/index.php?topic=34469.0</url>
-	<targetVersion>1.0.1964</targetVersion>
+	<targetVersion>0.19.2009</targetVersion>
 	<description>This mod makes it so that people will no longer instantly die when their vital capacities reach zero. If one of your colonists has their liver destroyed by a charge lance, for instance, they will become severely ill and you will have a short window to get them a new liver before they die.
 
 The time scales in this mod are not entirely realistic, because Rimworld's time scale makes it effectively impossible for a colonist to receive life-saving care in a realistic amount of time. Colonists move too slowly, and days pass too quickly, so the numbers have been fudged to make it difficult, but possible, to save someone if you have a donor organ on hand.
